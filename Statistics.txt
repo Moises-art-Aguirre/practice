@@ -1,4 +1,5 @@
 # Statistics
+
 | Name          | Job Title       | Department    | Location       |
 |---------------|-----------------|---------------|----------------|
 | Moises Aguirre| Data Analyst I  | Data Analysis | Paris, France  |
