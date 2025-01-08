@@ -1,0 +1,5 @@
+# Statistics
+|          | Count |
+|----------|----------|
+| Blue Cars    |  15  |
+| Red Cars    |  17  |
