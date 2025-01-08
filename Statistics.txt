@@ -1,3 +1,0 @@
-# Statistics
-## I tried creating a table but it wasn't working
-### My guess is that something might be wrong with my settings? I need to figure out what might be the issue
